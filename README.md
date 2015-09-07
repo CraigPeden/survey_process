@@ -1,6 +1,6 @@
 # survey_process
 
-Python script to automate the cleaning of Edinburgh University's survey dumps from Coursera
+Python script to automate the cleaning of Edinburgh University's survey dumps from Coursera.
 
 Usage:
 
